@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Info_sign" data-name="Info sign" transform="translate(-1483 -133)">
+    <g id="Эллипс_23" data-name="Эллипс 23" transform="translate(1483 133)" fill="#fff" stroke="#9677f1" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+    <g id="Прямоугольник_518" data-name="Прямоугольник 518" transform="translate(1492 141)" fill="#fff" stroke="#9677f1" stroke-width="1">
+      <rect width="2" height="7" rx="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1" height="6" rx="0.5" fill="none"/>
+    </g>
+    <g id="Эллипс_24" data-name="Эллипс 24" transform="translate(1492 138)" fill="#fff" stroke="#9677f1" stroke-width="1">
+      <circle cx="1" cy="1" r="1" stroke="none"/>
+      <circle cx="1" cy="1" r="0.5" fill="none"/>
+    </g>
+  </g>
+</svg>

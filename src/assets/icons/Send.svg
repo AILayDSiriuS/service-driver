@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <filter id="Прямоугольник_468" x="0" y="0" width="50" height="50" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#9677f1" flood-opacity="0.349"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Send_button" data-name="Send button" transform="translate(9 6)">
+    <g transform="matrix(1, 0, 0, 1, -9, -6)" filter="url(#Прямоугольник_468)">
+      <rect id="Прямоугольник_468-2" data-name="Прямоугольник 468" width="32" height="32" rx="16" transform="translate(9 6)" fill="#9677f1"/>
+    </g>
+    <path id="Arrow" d="M5.32,11.911.29,6.754A.9.9,0,0,1,.185,5.386L5.3.274A.9.9,0,0,1,6.574,1.552L2.925,5.2H13a.915.915,0,0,1,0,1.83H3.083l3.5,3.587a.933.933,0,0,1,0,1.294.878.878,0,0,1-1.262,0Z" transform="translate(22.111 9.08) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

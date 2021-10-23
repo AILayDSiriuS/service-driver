@@ -1,0 +1,17 @@
+<svg id="EducationQuick" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ce9ffc"/>
+      <stop offset="1" stop-color="#7367f0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_408" data-name="Rectangle 408" width="48" height="48" rx="19" fill="url(#linear-gradient)"/>
+  <g id="EducationQuick-2" data-name="EducationQuick" transform="translate(9 9)">
+    <rect id="Rectangle_523" data-name="Rectangle 523" width="30" height="30" fill="none"/>
+    <g id="Group_42" data-name="Group 42">
+      <path id="Path_1048" data-name="Path 1048" d="M.018.558,6.05,3.01,12.135.558V6.982L6.05,9.8.018,6.982Z" transform="translate(9.102 13.693)" fill="#9677f1" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_1050" data-name="Path 1050" d="M5.221,5.221,17.657,0,12.436,12.436,0,17.657Z" transform="translate(15.152 -0.884) rotate(45)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Rectangle_544" data-name="Rectangle 544" d="M0,0H2A0,0,0,0,1,2,0V6A1,1,0,0,1,1,7H1A1,1,0,0,1,0,6V0A0,0,0,0,1,0,0Z" transform="translate(23 13)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

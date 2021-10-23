@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Messages" transform="translate(0.13)">
+    <rect id="Прямоугольник_382" data-name="Прямоугольник 382" width="40" height="40" transform="translate(-0.13)" fill="none"/>
+    <path id="Message_sign" data-name="Message sign" d="M9.431,0c5.209,0,9.431,3.695,9.431,8.252S14.64,16.5,9.431,16.5a10.8,10.8,0,0,1-3.361-.558A5.9,5.9,0,0,1,.776,17.726c-1.05-.717,1.7-1.51,1.469-4.081A7.557,7.557,0,0,1,0,8.252C0,3.695,4.222,0,9.431,0Z" transform="translate(10.439 11)" fill="none" stroke="#6d7188" stroke-width="2"/>
+  </g>
+</svg>
